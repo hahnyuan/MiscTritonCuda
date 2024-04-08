@@ -15,7 +15,7 @@ MiscTritonCuda is a feature-rich library designed to provide miscellaneous opera
 ### Install
 
 ```
-
+pip install torch triton
 ```
 
 
